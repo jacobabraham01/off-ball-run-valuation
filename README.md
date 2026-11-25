@@ -1,4 +1,4 @@
-# Off-Ball Run & Space Creation Valuation Engine
+# Off-Ball Run Valuation
 
 A reproducible football-tracking portfolio project that turns public broadcast XY data into **reviewable off-ball run candidates** and a spatial-opportunity signal. It combines gap-aware player kinematics, a velocity-aware pitch-control approximation and a published expected-threat (xT) surface. The notebook walks through a real A-League match and produces a freeze frame and an animation.
 
