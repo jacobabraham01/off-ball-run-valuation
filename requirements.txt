@@ -1,0 +1,10 @@
+# Tested with CPython 3.12; these pinned releases also support 3.11.
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.13.1
+matplotlib==3.9.2
+mplsoccer==1.4.0
+kloppy==3.18.0
+pytest==8.3.3
+pillow==10.4.0
+jupyter==1.1.1
